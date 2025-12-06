@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "nomnombook",
+    "slug": "recipe-vault",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.recipevault.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.recipevault.app"
+    },
+    "web": {
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
+
